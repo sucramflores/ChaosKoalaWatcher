@@ -1,0 +1,11 @@
+C:\Users\Marcus\source\repos\PDQ\Watcher\bin\Debug\netcoreapp2.1\Watcher.dll
+C:\Users\Marcus\source\repos\PDQ\Watcher\bin\Debug\netcoreapp2.1\Watcher.deps.json
+C:\Users\Marcus\source\repos\PDQ\Watcher\bin\Debug\netcoreapp2.1\Watcher.runtimeconfig.json
+C:\Users\Marcus\source\repos\PDQ\Watcher\bin\Debug\netcoreapp2.1\Watcher.runtimeconfig.dev.json
+C:\Users\Marcus\source\repos\PDQ\Watcher\obj\Debug\netcoreapp2.1\Watcher.csproj.CoreCompileInputs.cache
+C:\Users\Marcus\source\repos\PDQ\Watcher\obj\Debug\netcoreapp2.1\Watcher.AssemblyInfoInputs.cache
+C:\Users\Marcus\source\repos\PDQ\Watcher\obj\Debug\netcoreapp2.1\Watcher.AssemblyInfo.cs
+C:\Users\Marcus\source\repos\PDQ\Watcher\obj\Debug\netcoreapp2.1\Watcher.dll
+C:\Users\Marcus\source\repos\PDQ\Watcher\obj\Debug\netcoreapp2.1\Watcher.pdb
+C:\Users\Marcus\source\repos\PDQ\Watcher\bin\Debug\netcoreapp2.1\Watcher.pdb
+C:\Users\Marcus\source\repos\PDQ\Watcher\obj\Debug\netcoreapp2.1\Watcher.csprojAssemblyReference.cache
